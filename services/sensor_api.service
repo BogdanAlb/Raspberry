@@ -3,12 +3,12 @@ Description=Sensor API Server
 After=network.target
 
 [Service]
-ExecStart=/usr/bin/python3 /home/pi/src/app.py
-WorkingDirectory=/home/pi/src/
+ExecStart=/usr/bin/python3 /home/bogdan/E5/app.py
+WorkingDirectory=/home/bogdan/E5/
 StandardOutput=inherit
 StandardError=inherit
 Restart=always
-User=pi
+User=bogdan
 
 [Install]
 WantedBy=multi-user.target
