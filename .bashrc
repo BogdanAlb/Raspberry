@@ -111,3 +111,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+alias startApp="/home/bogdan/app_v3.sh"

@@ -61,3 +61,15 @@ ls
 python send_temp.py 
 nano send_temp.py 
 python send_temp.py 
+source env/bin/activate
+pip install psycopg2-binary
+cd max30102/
+ls
+nano send2.py
+python3 send2.py 
+rm heartrate_monitor.py 
+nano heartrate_monitor.py
+source env/bin/activate
+cd max30102/
+ls
+nano heartrate_monitor.py
