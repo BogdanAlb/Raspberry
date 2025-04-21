@@ -135,3 +135,4 @@ Datele au fost salvate cu succes.
 Proiect IoT / Senzori / Cloud Integration (Neon DB)
 
 ---
+# HealthGuardian
