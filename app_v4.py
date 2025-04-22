@@ -15,7 +15,7 @@ import argparse
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(message)s")
 
 # Configurare baza de date
-DB_URL = "postgresql://neondb_owner:npg_L3fiTW6qKSDw@ep-icy-dawn-a4kubr5f.us-east-1.aws.neon.tech/neondb?sslmode=require"
+DB_URL = "adresa baza de date"
 PATIENT_ID = 5
 DURATION = 10
 
